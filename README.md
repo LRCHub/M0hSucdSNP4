@@ -1,0 +1,67 @@
+# Janne Da Arc – feel the wind
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm feelin' the wind in the sky
+Without your love
+ちぎれた空の隙間から
+差し込む光の道しるべ
+立ち止まってた僕だけど
+今やっと歩いていけそうだよ
+二人で残してきた足跡
+思い出すと君が笑って
+くちづけて来たあの頃
+君はもういない
+For Dear...
+I'm feelin' the wind in the sky
+Without your love
+今頃君もこの空を
+誰かと見上げているの
+I'm feelin' the wind in the sky
+Without your love
+キレイなままで
+今から二人の想い出をしまうよ
+無理に笑顔で過ごしても
+夢の中まで嘘つけない
+"さよなら"を描いた白い吐息
+流れてた歌が悲しくて
+思わず耳をふさいだ
+君の好きな歌
+For Dear...
+I'm feelin' the wind in the sky
+Without your love
+だけどこれ以上は悔しいから
+綺麗にならないで
+I'm feelin' the wind in the sky
+Without your love
+ただ逢いたくて、逢えなくて
+君の幸せだけ願うよ
+For Dear...
+I'm feelin' the wind in the sky
+Without your love
+今頃君もこの空を
+誰かと見上げているの
+I'm feelin' the wind in the sky
+Without your love
+キレイなままで
+今から二人の想い出をしまうよ
+I'm feelin' the wind in the sky
+Without your love
+だけどこれ以上は悔しいから
+綺麗にならないで
+I'm feelin' the wind in the sky
+Without your love
+ただ逢いたくて、逢えなくて
+君の幸せだけ願うよ
+I'm feelin' the wind in the sky
+Without your love
+I'm feelin' the wind in the sky
+Without your love
+I'm feelin' the wind in the sky
+Without your love
+I'm feelin' the wind in the sky
+Without your love
+I'm feelin' the wind in the sky
+Without your love
+```
