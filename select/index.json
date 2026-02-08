@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "feel the wind",
+  "base_artist": "Janne Da Arc",
+  "createdAt": "2026-02-08T07:30:55.991444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel the Wind (From 100Th Memorial Live \"Live Infinity 2002 At Budokan\")",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/01_Feel_the_Wind_(From_100Th_Memorial_Live__Live_Infinity_2002_At_Budokan_)_Janne_Da_Arc.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "feel the wind",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/02_feel_the_wind_Janne_Da_Arc.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "feel the wind",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/03_feel_the_wind_Janne_Da_Arc.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel The Wind",
+      "artist": "YN Jay",
+      "has_synced": false,
+      "path": "select/04_Feel_The_Wind_YN_Jay.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "feel the wind",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/pl_01_feel_the_wind_Janne_Da_Arc.txt"
+    }
+  ]
+}
